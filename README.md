@@ -54,7 +54,7 @@ design and develop things that will help the people in their everyday lives!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeePH&layout=compact&theme=radical)
 
 
----
+<!-- ---
 
 ### 🌟 Featured Projects
 
@@ -62,7 +62,7 @@ design and develop things that will help the people in their everyday lives!
 - **[Project Name 2](https://github.com/yourusername/project2)** - A brief description of the project.
 - **[Project Name 3](https://github.com/yourusername/project3)** - A brief description of the project.
 
----
+--- -->
 
 ### 📫 Let's Connect!
 
