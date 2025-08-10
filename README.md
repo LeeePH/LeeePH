@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a second year working student currently studying Bachelor of Science in Information Technology at Quezon City University. I love to
+I'm a third year working student currently studying Bachelor of Science in Information Technology at Quezon City University. I love to
 design and develop things that will help the people in their everyday lives!
 
 ---
